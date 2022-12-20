@@ -1,0 +1,38 @@
+/* eslint-disable import/no-anonymous-default-export */
+export default {
+  login: "MrYogesh0709",
+  id: 113683207,
+  node_id: "U_kgDOBsarBw",
+  avatar_url: "https://avatars.githubusercontent.com/u/113683207?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/MrYogesh0709",
+  html_url: "https://github.com/MrYogesh0709",
+  followers_url: "https://api.github.com/users/MrYogesh0709/followers",
+  following_url:
+    "https://api.github.com/users/MrYogesh0709/following{/other_user}",
+  gists_url: "https://api.github.com/users/MrYogesh0709/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/MrYogesh0709/starred{/owner}{/repo}",
+  subscriptions_url: "https://api.github.com/users/MrYogesh0709/subscriptions",
+  organizations_url: "https://api.github.com/users/MrYogesh0709/orgs",
+  repos_url: "https://api.github.com/users/MrYogesh0709/repos",
+  events_url: "https://api.github.com/users/MrYogesh0709/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/MrYogesh0709/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Mr.Yogesh",
+  company: null,
+  blog: "",
+  location: "Ahmedabad",
+  email: null,
+  hireable: null,
+  bio: "Love Coding",
+  twitter_username: "Mryogesh0709",
+  public_repos: 6,
+  public_gists: 0,
+  followers: 1,
+  following: 2,
+  created_at: "2022-09-16T09:57:23Z",
+  updated_at: "2022-11-07T09:11:53Z",
+};
